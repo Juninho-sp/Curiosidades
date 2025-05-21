@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; **Análise e Desenvolvimento de Sistemas na UNINTER**  <a href="[Fam]([https://famonline.instructure.com/])"></a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Front-End, CSS, HTML, JAVA-SCRIPT, BANDO DE DADOS,PYTHON,PHP,MYQSL e iniciante em Redes**.
+- 🌱 &nbsp; Aprendendo mais sobre **Front-End, CSS, HTML, JAVA-SCRIPT, Banco de Dados,PYTHON,PHP,MYQSL e iniciante em Redes**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
